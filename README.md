@@ -5,6 +5,8 @@
 * Mostly, each repo has assignments from my classes throughout the years
 * Within the Python repo, I am working on converting all assignments from other languages but making them better
 * I know the code for some assignments do not work properly (especially in Java and C++ repos), but that is ok! Shows I was still learning at that time.
+(Unfortunately, this is my personal account.  I have a more active account for work in which I will hopefully show here once the project is done.)
+
 
 ### Contact information is on the left under my picture
 
