@@ -9,7 +9,7 @@
 &nbsp;
 
 
-\t(Unfortunately, this is my personal account.  I have a more active account for work in which I will hopefully show here once the project is done.)
+   (Unfortunately, this is my personal account.  I have a more active account for work in which I will hopefully show here once the project is done.)
 
 
 ### Contact information is on the left under my picture
