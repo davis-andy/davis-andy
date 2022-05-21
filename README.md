@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Animation, Photography, and Code junkie
 
 ## What you will see on my GitHub:
