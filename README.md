@@ -1,6 +1,8 @@
-# Animation, Photography, and Code junkie
+# UNDERGOING REFACTORING, SO REPOS WILL BE PRIVATE FOR SOME TIME
 
-## What you will see on my GitHub:
+## Animation, Photography, and Code junkie
+
+### What you will see on my GitHub:
 
 * Mostly, each repo has assignments from my classes throughout the years
 * Within the Python repo, I am working on converting all assignments from other languages but making them better
@@ -11,7 +13,7 @@
    (Unfortunately, this is my personal account.  I have a more active account for work in which I will hopefully show here once the project is done.)
 
 
-### Contact information is on the left under my picture
+#### Contact information is on the left under my picture
 
 <!--
 **davis-andy/davis-andy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
